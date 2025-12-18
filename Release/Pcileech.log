@@ -1,0 +1,151 @@
+﻿  config.cpp
+C:\Users\cds\source\repos\Pcileech\Pcileech\include\utils.hpp(52,52): error C2143: syntax error: missing ')' before '('
+  (compiling source file 'src/config.cpp')
+  
+C:\Users\cds\source\repos\Pcileech\Pcileech\include\utils.hpp(52,52): error C2059: syntax error: '('
+  (compiling source file 'src/config.cpp')
+  
+C:\Users\cds\source\repos\Pcileech\Pcileech\include\utils.hpp(52,52): error C2059: syntax error: ')'
+  (compiling source file 'src/config.cpp')
+  
+C:\Users\cds\source\repos\Pcileech\Pcileech\include\utils.hpp(52,80): error C2059: syntax error: ')'
+  (compiling source file 'src/config.cpp')
+  
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(8,1): error C2653: 'Config': is not a class or namespace name
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(8,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(8,27): error C3861: 'get_default_config_path': identifier not found
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(8,54): error C2550: 'Config': constructor initializer lists are only allowed on constructor definitions
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(8,55): warning C4508: 'Config': function should return a value; 'void' return type assumed
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(10,1): error C2653: 'Config': is not a class or namespace name
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(10,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(10,28): error C2143: syntax error: missing ',' before '&'
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(10,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(10,58): error C2065: 'config_path': undeclared identifier
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(10,71): error C2550: 'Config': constructor initializer lists are only allowed on constructor definitions
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(11,25): error C2065: 'config_path': undeclared identifier
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(11,10): error C3861: 'load_from_file': identifier not found
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(12,9): error C2065: 'pcileech_': undeclared identifier
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(12,37): error C2065: 'DEFAULT_EXECUTABLE_PATH': undeclared identifier
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(13,9): error C2065: 'pcileech_': undeclared identifier
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(13,37): error C2065: 'DEFAULT_TIMEOUT_SECONDS': undeclared identifier
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(14,9): error C2065: 'server_': undeclared identifier
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(14,24): error C2065: 'DEFAULT_SERVER_NAME': undeclared identifier
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(15,9): error C2065: 'server_': undeclared identifier
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(15,27): error C2065: 'DEFAULT_SERVER_VERSION': undeclared identifier
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(17,1): warning C4508: 'Config': function should return a value; 'void' return type assumed
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(19,6): error C2653: 'Config': is not a class or namespace name
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(19,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(19,41): error C2143: syntax error: missing ',' before '&'
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(21,28): error C2065: 'config_path': undeclared identifier
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(23,61): error C2065: 'config_path': undeclared identifier
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(23,19): error C3861: 'ConfigError': identifier not found
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(26,9): error C2065: 'json': undeclared identifier
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(26,14): error C2146: syntax error: missing ';' before identifier 'j'
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(26,14): error C2065: 'j': undeclared identifier
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(27,17): error C2065: 'j': undeclared identifier
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(29,13): error C2065: 'j': undeclared identifier
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(30,13): error C2065: 'pcileech_': undeclared identifier
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(30,25): error C2653: 'PCILeechConfig': is not a class or namespace name
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(30,51): error C2065: 'j': undeclared identifier
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(30,41): error C3861: 'from_json': identifier not found
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(33,13): error C2065: 'j': undeclared identifier
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(34,13): error C2065: 'server_': undeclared identifier
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(34,23): error C2653: 'ServerConfig': is not a class or namespace name
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(34,47): error C2065: 'j': undeclared identifier
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(34,37): error C3861: 'from_json': identifier not found
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(38,20): error C2653: 'json': is not a class or namespace name
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(38,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(38,37): error C2143: syntax error: missing ',' before '&'
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(39,68): error C2065: 'e': undeclared identifier
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(39,61): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(39,15): error C3861: 'ConfigError': identifier not found
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(40,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(40,31): error C2143: syntax error: missing ',' before '&'
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(40,7): error C2312: 'const int': is caught by 'const int' on line 38
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(43,59): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(43,15): error C3861: 'ConfigError': identifier not found
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(47,8): error C2653: 'Config': is not a class or namespace name
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(47,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(47,16): error C2146: syntax error: missing ';' before identifier 'get_absolute_executable_path'
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(47,53): error C2143: syntax error: missing ';' before '{'
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(47,53): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(56,6): error C2653: 'Config': is not a class or namespace name
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(56,14): error C2270: 'validate': modifiers not allowed on nonmember functions
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(57,10): error C2653: 'utils': is not a class or namespace name
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(57,29): error C3861: 'get_absolute_executable_path': identifier not found
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(57,17): error C3861: 'path_exists': identifier not found
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(61,9): error C2065: 'pcileech_': undeclared identifier
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(61,43): error C2065: 'pcileech_': undeclared identifier
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(68,8): error C2653: 'Config': is not a class or namespace name
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(68,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(68,1): error C2086: 'int string': redefinition
+      C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(47,1):
+      see declaration of 'string'
+  
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(68,16): error C2146: syntax error: missing ';' before identifier 'get_default_config_path'
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(68,42): error C2143: syntax error: missing ';' before '{'
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(68,42): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(72,6): error C2653: 'Config': is not a class or namespace name
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(72,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(72,30): error C2146: syntax error: missing ';' before identifier 'to_json'
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(72,46): error C2143: syntax error: missing ';' before '{'
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(72,46): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(79,1): error C2653: 'Config': is not a class or namespace name
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(79,24): error C2653: 'Config': is not a class or namespace name
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(79,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(79,48): error C2146: syntax error: missing ';' before identifier 'from_json'
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(79,73): error C2143: syntax error: missing ';' before '{'
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(79,73): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(86,6): error C2653: 'Config': is not a class or namespace name
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(86,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(86,1): error C2086: 'int json': redefinition
+      C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(72,1):
+      see declaration of 'json'
+  
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(86,28): error C2146: syntax error: missing ';' before identifier 'to_json'
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(86,44): error C2143: syntax error: missing ';' before '{'
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(86,44): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(93,1): error C2653: 'Config': is not a class or namespace name
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(93,22): error C2653: 'Config': is not a class or namespace name
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(93,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(93,44): error C2146: syntax error: missing ';' before identifier 'from_json'
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(93,69): error C2143: syntax error: missing ';' before '{'
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\config.cpp(93,69): error C2447: '{': missing function header (old-style formal list?)
+  main.cpp
+C:\Users\cds\source\repos\Pcileech\Pcileech\include\pcileech_wrapper.hpp(28,17): error C3646: 'format_memory': unknown override specifier
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\cds\source\repos\Pcileech\Pcileech\include\pcileech_wrapper.hpp(28,30): error C2059: syntax error: '('
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\cds\source\repos\Pcileech\Pcileech\include\pcileech_wrapper.hpp(31,79): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\cds\source\repos\Pcileech\Pcileech\include\pcileech_wrapper.hpp(83,19): error C3646: 'run_command': unknown override specifier
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\cds\source\repos\Pcileech\Pcileech\include\pcileech_wrapper.hpp(83,30): error C2059: syntax error: '('
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\cds\source\repos\Pcileech\Pcileech\include\pcileech_wrapper.hpp(83,63): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\main.cpp(7,40): error C2065: 'Config': undeclared identifier
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\main.cpp(7,28): error C2672: 'std::make_unique': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\memory(3669,6):
+      could be 'void std::make_unique(_Types ...)'
+          C:\Users\cds\source\repos\Pcileech\Pcileech\src\main.cpp(7,40):
+          'std::make_unique': invalid template argument for '_Ty', type expected
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\memory(3663,57):
+      or       'std::unique_ptr<_Ty,std::default_delete<_Ty>> std::make_unique(const size_t)'
+          C:\Users\cds\source\repos\Pcileech\Pcileech\src\main.cpp(7,40):
+          'std::make_unique': invalid template argument for '_Ty', type expected
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\memory(3658,57):
+      or       'std::unique_ptr<_Ty,std::default_delete<_Ty>> std::make_unique(_Types ...)'
+          C:\Users\cds\source\repos\Pcileech\Pcileech\src\main.cpp(7,40):
+          'std::make_unique': invalid template argument for '_Ty', type expected
+  
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\main.cpp(8,40): error C2065: 'MCPServer': undeclared identifier
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\main.cpp(8,52): error C3536: 'config': cannot be used before it is initialized
+C:\Users\cds\source\repos\Pcileech\Pcileech\src\main.cpp(8,51): error C2100: you cannot dereference an operand of type '<error>'
+  memory_formatter.cpp
